@@ -1,0 +1,2 @@
+# Javascriptproject
+javascript code details
